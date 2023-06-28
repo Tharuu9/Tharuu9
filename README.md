@@ -1,9 +1,8 @@
-![image](https://github.com/Tharuu9/Tharuu9/assets/114207360/44e758d2-33cb-423a-9dc6-4a452c88d3a9)<div align="center">
+<div align="center">
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 </div>
 <h1 align="center"><mark>Hi 👋, I'm Tharuka Wijesekara.</mark></h1>
 <h3 align="center">A begineer Software Engineering student from Sri Lanka. 🇱🇰</h3>
-
 
 <div align="center">
   
@@ -34,10 +33,3 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 </div>
-
-<div align="center">
-  
-##  GitHub Stats.
-
-</div>
-
