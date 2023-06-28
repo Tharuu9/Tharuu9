@@ -1,4 +1,6 @@
+<div align="center">
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+</div>
 <h1 align="center">Hi 👋, I'm Tharuka Wijesekara</h1>
 <h3 align="center">I m still learning to become a software enginner.</h3>
 
