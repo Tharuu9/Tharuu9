@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fprachijain136&psig=AOvVaw2buxiE8TP4F5CjmNPEUavE&ust=1703267403112000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjXu9qLoYMDFQAAAAAdAAAAABAQ">
 </div>
 <h1 align="center">Hi 👋, I'm Tharuka Wijesekara</h1>
 <h3 align="center">I m still learning to become a software enginner.</h3>
