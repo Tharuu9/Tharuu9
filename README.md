@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="300" height="300" border-radius: 75px">
 </div>
 <h1 align="center">Hi 👋, I'm Tharuka Wijesekara</h1>
 <h3 align="center">I m still learning to become a software enginner.</h3>
