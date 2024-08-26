@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Tharuka Wijesekara</h1>
 <h3 align="center">I m still learning to become a software enginner.</h3>
 
-- 🔭 I’m currently working on [Spring_Boot ]( https://github.com/Tharuu9/spring_Boot_Customer.git)
+- 🔭 I’m currently working on [Machine Learning and Web Services ]
 
 - 🌱 I’m currently learning **Computer Networking & Advance API**
 
