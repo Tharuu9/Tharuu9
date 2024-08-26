@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Tharuka Wijesekara</h1>
 <h3 align="center">I m still learning to become a software enginner.</h3>
 
-- 🔭 I’m currently working on [Machine Learning and Web Services ]
+- 🔭 I’m currently working on **Quality Assurance**
 
-- 🌱 I’m currently learning **Computer Networking & Advance API**
+- 🌱 I’m currently learning **Machine Learning & Web Service**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tharuu9/My_Profile](https://github.com/Tharuu9/My_Profile)
 
